@@ -1,0 +1,16 @@
+{
+  "community": [
+    {
+      "type": "category",
+      "label": "Community",
+      "collapsed": false,
+      "collapsible": false,
+      "items": ["overview", "staying-updated", "communities", "support"]
+    },
+    {
+      "type": "link",
+      "label": "Chat with us",
+      "href": "https://www.543x.com"
+    }
+  ]
+}
